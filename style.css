@@ -1,0 +1,41 @@
+body {
+    background-color: #CED4D8;
+}
+h1 {
+    color:#AC6AC7
+}
+h2 {
+    color: rgb(255, 165, 0);
+}
+li {
+    color: blue
+}
+p {
+    background-color: gold;
+}
+input[type=email] {
+    border: pink 5px dotted
+}
+
+input[ type=email] {
+    background-color: #808080;
+}
+
+input[type=text] {
+    border: pink 5px dotted
+}
+.first {
+    color: #fff
+}
+
+#important {
+    border: 3px dashed blue
+}
+
+div p{
+    font-size: 30px;
+}
+
+div {
+    background-color: hotpink;
+}
